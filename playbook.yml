@@ -4,44 +4,59 @@
   vars:
     applications:
       - alfred
-      - boxer
+      - dropbox
       - cord
+      - iterm2
       - firefox
       - google-chrome
-      - gpgtools
-      - handbrake
       - hipchat
-      - kdiff3
-      - libreoffice
-      - limechat
       - phpstorm
       - mou
-      - parallels
-      - robomongo
       - sequel-pro
-      - sonos
       - spotify
       - the-unarchiver
       - transmit
-      - tunnelblick
+      - viscosity
       - vagrant
       - virtualbox
       - vlc
+      - sublime-text
+      - skype
+      - github
+      - evernote
+      - cloudapp
+      - rescuetime
+      - istat-menus
+      - google-drive
+      - chicken
     application_dir: /Applications
     brews:
       - ack
-      - chromedriver
       - docker
       - hub
       - ios-webkit-debug-proxy
       - rsync
       - zsh
+      - curl
+      - ant
+      - composer
+      - git
+      - ios-sim
+      - htop-osx
+      - tig
+      - tree
+      - wget
+      - nmap
+      - nodejs
+      - npm
+      - ansible
+      - selenium
     caskroom_dir: /usr/local/caskroom
-    dotfiles_dir: /Users/craig/Code/dotfiles
+    dotfiles_dir: /Users/jcalonso/Code/dotfiles
     email: EMAIL_HERE
-    github_username: craigmarvelley
-    home_dir: /Users/craig
-    name: Craig Marvelley
+    github_username: jcalonso
+    home_dir: /Users/jcalonso
+    name: Juan Carlos Alonso
     zsh_path: /usr/local/bin/zsh
 
   tasks:
