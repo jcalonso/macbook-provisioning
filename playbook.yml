@@ -52,7 +52,7 @@
       - ansible
       - selenium
     caskroom_dir: /usr/local/caskroom
-    dotfiles_dir: /Users/jcalonso/Code/dotfiles
+    dotfiles_dir: /Users/jcalonso/Projects/dotfiles
     email: EMAIL_HERE
     github_username: jcalonso
     home_dir: /Users/jcalonso
