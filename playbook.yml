@@ -24,7 +24,7 @@
       - skype
       - github
       - evernote
-      - cloudapp
+      - cloud
       - rescuetime
       - istat-menus
       - google-drive
@@ -39,9 +39,9 @@
       - zsh
       - curl
       - ant
+      - php55
       - composer
       - git
-      - ios-sim
       - htop-osx
       - tig
       - tree
@@ -50,10 +50,11 @@
       - nodejs
       - npm
       - ansible
-      - selenium
+      - selenium-server-standalone
     caskroom_dir: /usr/local/caskroom
     dotfiles_dir: /Users/jcalonso/Projects/dotfiles
-    email: EMAIL_HERE
+    dotfiles_repo: 
+    email: 
     github_username: jcalonso
     home_dir: /Users/jcalonso
     name: Juan Carlos Alonso
