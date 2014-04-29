@@ -31,7 +31,7 @@
       - chicken
       - atom
       - hyperswitch
-      - chearsheet
+      - cheatsheet
     application_dir: /Applications
     brews:
       - ack
